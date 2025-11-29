@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "notification-sound",
-      "source": "https://github.com/vadivel-designer/notification-sound-plugin",
+      "source": "./",
       "description": "Plays a sound when Claude Code sends notifications or stops",
       "version": "1.0.0"
     }
